@@ -11,3 +11,6 @@ Particle size was measured using a PCASP (Bloggs et al 2004).
 
 Jones et al (1998) previously showed that there was something inportant going on in this region. 
 But continental scale measurements have not previous been made. 
+
+A large uncertainty in modelling BBOA is the extent to which
+measurements can be made on a regional scale actually.
