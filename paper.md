@@ -1,8 +1,9 @@
 # Title
-Agening of biomass burning aerosols over West Africa
+Simulations of biomass burning aerosols over West Africa
 
 # Author
 Matt Church
+John Smith
 
 #Introduction
 This is my introduction which is very brief but its something to do with biomass aerosols over west africa or something like
