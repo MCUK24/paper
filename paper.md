@@ -26,3 +26,6 @@ The model is detailed in Smith et al 2002.
 
 # Results
 The Results are here
+
+# Figures 
+Adding in a figure
