@@ -19,3 +19,7 @@ measurements can be made on a regional scale actually.
 #Simulations
 We simulate the evolution of particle sizes as they are transported
 away from the course region.
+
+#Methodology
+We compared our measurements of particle aging with a model simulation. 
+The model is detailed in Smith et al 2002.
